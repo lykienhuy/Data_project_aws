@@ -57,6 +57,4 @@ Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse
 - AWS Lambda  
 - Amazon Redshift  
 - Amazon QuickSight  
-- VPC, Private Subnet  
-
 
