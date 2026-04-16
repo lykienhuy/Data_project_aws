@@ -1,13 +1,12 @@
 ![image alt](https://github.com/lykienhuy/Data_project_aws/blob/50568ad1d431409665077931e3240bda762d2569/Architect.png)
 
-# 🚀 Phân tích sản phẩm bán chạy nhất bằng quy trình ELT
+# Phân tích sản phẩm bán chạy nhất bằng quy trình ELT
 
-## 📌 Tổng quan
+## Tổng quan
 
 Project này xây dựng một pipeline **ELT (Extract - Load - Transform)** trên AWS nhằm xử lý dữ liệu thô và phục vụ phân tích.
 
 Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse, transform và trực quan hóa dữ liệu phục vụ **business insight**.
-
 
 
 ## Kiến trúc hệ thống
@@ -17,8 +16,6 @@ Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse
 - **Amazon Redshift**: Data warehouse để lưu trữ và transform dữ liệu  
 - **Amazon QuickSight**: Công cụ visualize dữ liệu  
 - **VPC + Private Subnet**: Tăng tính bảo mật cho hệ thống  
-
-
 
 ## Luồng xử lý dữ liệu
 
@@ -48,14 +45,12 @@ Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse
 - Sản phẩm bán chạy nhất  
 
 
-
 ## Kết quả đạt được
 
 - Tự động hóa pipeline dữ liệu end-to-end  
 - Áp dụng đúng mô hình ELT 
 - Dữ liệu được xử lý nhanh và sẵn sàng cho BI  
 - Hỗ trợ phân tích và ra quyết định kinh doanh  
-
 
 
 ## Công nghệ sử dụng
