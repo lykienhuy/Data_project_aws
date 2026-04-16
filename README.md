@@ -33,7 +33,7 @@ Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse
 
 ### 4. Load dữ liệu (EL) và Transform (T)
 - Redshift thực thi `copy_from_s3`  
-  - Sử dụng lệnh `COPY` để load dữ liệu từ S3 vào bảng staging  
+  - Sử dụng lệnh `COPY` để load dữ liệu từ S3 vào bảng staging đã được tạo sẵn từ trước
 
 - Redshift thực thi `transform`  
   - Xử lý, làm sạch và tổng hợp dữ liệu  
@@ -50,8 +50,6 @@ Hệ thống cho phép tự động ingest dữ liệu, load vào data warehouse
 - Tự động hóa pipeline dữ liệu end-to-end  
 - Áp dụng đúng mô hình ELT 
 - Dữ liệu được xử lý nhanh và sẵn sàng cho BI  
-- Hỗ trợ phân tích và ra quyết định kinh doanh  
-
 
 ## Công nghệ sử dụng
 
