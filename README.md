@@ -1,4 +1,4 @@
-![image alt](https://github.com/lykienhuy/Data_project_aws/blob/39208aa05233404cdb47fd38b621f7f267a36bcf/Architect.png)
+![image alt](https://github.com/lykienhuy/Data_project_aws/blob/52715e7c832ca326e70f3942f677d508791f9c03/architect.png)
 
 # Phân tích sản phẩm bán chạy nhất bằng quy trình ELT
 
